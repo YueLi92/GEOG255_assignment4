@@ -1,7 +1,7 @@
 ;***************************************
-;* Code to draw the precipitation & circulation
-;* over the Amazon & Sahel regions
-;* by Yue Li 2019.10.10
+;* Code to draw the forest cover change
+;* future SSP scenarios from LUH2
+;* by Yue Li 2024.11.20, code starts from line: 673
 ;***************************************
 ;---Load the NCL file that contains the gsn_* functions used below.
 load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_code.ncl"
